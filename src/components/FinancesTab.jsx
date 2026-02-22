@@ -1,4 +1,4 @@
-﻿import { useState } from 'react';
+import { useState } from 'react';
 import { DollarSign, Plus, Search, Calendar, TrendingUp, TrendingDown } from 'lucide-react';
 
 const FinancesTab = () => {

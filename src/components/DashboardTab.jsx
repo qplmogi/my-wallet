@@ -1,4 +1,4 @@
-﻿// src/components/Dashboard.jsx
+// src/components/Dashboard.jsx
 import Button from './ui/Button';
 
 const Dashboard = () => {

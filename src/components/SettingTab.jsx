@@ -1,4 +1,4 @@
-﻿const SettingTab = () => {
+const SettingTab = () => {
     return(
         <div></div>
     )

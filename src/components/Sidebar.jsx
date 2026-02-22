@@ -1,4 +1,4 @@
-﻿import {LayoutDashboard,DollarSign,Settings} from 'lucide-react';
+import {LayoutDashboard,DollarSign,Settings} from 'lucide-react';
 
 const Sidebar = ({activeTab,onTabChange}) => {
     
