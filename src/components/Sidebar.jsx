@@ -9,7 +9,7 @@ const Sidebar = ({activeTab,onTabChange}) => {
     ];
     
     return (
-        <div className="w-72 h-screen bg-white border-l border-gray-200 p-6" dir="rtl">
+        <div className="w-72 h-screen bg-white border-l border-gray-200 p-6" dir="rtl"> 
             <nav className="space-y-3">
                 {menuItems.map((item) => {
                 const Icon = item.icon;

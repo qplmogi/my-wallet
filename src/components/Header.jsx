@@ -7,7 +7,7 @@ const Header = ()=>{
                 <div className="flex items-center gap-4">
                     <div className="flex items-center gap-2">
                         <span className="hidden text-lg font-semibold sm:inline-block">
-                            کیف پول آنلاین من
+                            کیف پول آنلاین من 
                         </span>                        
                         <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary text-primary-foreground">
                             <span className="text-lg font-bold">💰</span>
