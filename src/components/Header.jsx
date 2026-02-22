@@ -1,4 +1,4 @@
-import Button from "./ui/Button";
+
 
 const Header = ()=>{
     return(
@@ -16,9 +16,9 @@ const Header = ()=>{
                 </div>
             
                 <div className="flex items-center gap-4">
-                    <Button>
+                    <button>
                     ثبت نام رایگان
-                    </Button>
+                    </button>
                 </div>
             </div>
         </header>
